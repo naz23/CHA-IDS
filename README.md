@@ -4,8 +4,8 @@ CHA-IDS is an IDS for 6LoWPAN communication protocol that analyze 3 type of atta
 combination.
 
 # Requirement
-Contiki installed in ubuntu
-Weka tools
+1. Contiki installed in ubuntu.
+2. Weka tools.
 
 # Publication
 M. N. Napiah, M. Y. I. Idris, R. Ramli and I. Ahmedy, "Compression Header Analyzer Intrusion Detection System (CHA - IDS) for 6LoWPAN Communication Protocol," in IEEE Access, vol. PP, no. 99, pp. 1-1.
