@@ -5,6 +5,7 @@ combination.
 
 # Requirement
 1. Contiki installed in ubuntu.
+3. Wireshark
 2. Weka tools.
 
 # Publication
