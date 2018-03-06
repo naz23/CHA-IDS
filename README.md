@@ -3,7 +3,7 @@
 CHA-IDS is an IDS for 6LoWPAN communication protocol that analyze 3 type of attack (hello flood, sinkhole, and wormhole)and its 
 combination.
 
-# Requirement
+# Requirements
 1. Contiki: download contiki instant http://www.contiki-os.org/download.html
 3. Wireshark
 2. Weka tools.
